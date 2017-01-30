@@ -1,4 +1,4 @@
-FROM daocloud.io/python:2.7
+FROM daocloud.io/python:3.5
 MAINTAINER Captain Dao <support@daocloud.io>
 
 RUN mkdir -p /app
